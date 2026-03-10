@@ -1,0 +1,5 @@
+torch>=1.10
+torchvision>=0.11
+opencv-python>=4.5
+numpy>=1.21
+Pillow>=8.0
